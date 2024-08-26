@@ -1,0 +1,3 @@
+gcc ./memdump.c ./test.c
+./a.out
+rm ./a.out
